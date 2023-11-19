@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Unorganized
+  - Unorganized 1
+  - Unorganized 2
+  - Door Entrance 1
+  - Door Entrance 2
+  - Door Entrance 3
+  - Unorganized 3
+  - Skill Check
+  - Compost
+  - Garbage
+  - Recycle
+  - Lock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Objects
+  - Walls
+  - Unorganized 1
+  - Compost
+  - Garbage
+  - Recycle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
